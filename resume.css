@@ -1,0 +1,13 @@
+html {
+    height: 100%;
+    max-width: 100%;
+    
+}
+body {
+    background-color: beige;
+    background-image: url(./images/resume-image.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}

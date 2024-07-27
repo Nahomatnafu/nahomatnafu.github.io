@@ -1,0 +1,14 @@
+Playful, choose color palette, typography, icons, buttons.
+Landing Page
+
+- A Header within a header!
+
+Portfolio
+- Resume
+- CS Projects
+- Certificates
+
+Personal
+- Picture Gallery
+- Book Recommendations
+- Album

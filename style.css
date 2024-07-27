@@ -1,0 +1,58 @@
+html {
+    height: 100%;
+    max-width: 100%;
+}
+body {
+    background-image: url(images/dragonslayer.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.my-specs {
+    margin-left: 300px;
+}
+.my-space {
+    padding: 0 40px;
+}
+.bg-body-tertiary{
+    background-color: transparent !important;
+}
+.navbar-brand {
+    font-weight: 700;
+    margin-left: 50px;
+}
+.hero-content {
+    background-color: beige; /* Background color of the box */
+    padding: 40px 70px; /* Padding inside the box */
+    
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Box shadow for depth */
+}
+.my-name {
+    color: orange;
+    text-shadow: 1px 1px 1px black;
+}
+.my-image {
+    box-shadow: -7px 5px 10px orange;
+    margin-left: 80px;
+    border-radius: 20px;
+
+}
+.my-navname {
+    text-shadow: 1px 1px 1px orange;
+}
+
+.my-change {
+    color: orange !important; 
+    text-shadow: 1px 1px 1px black;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.my-icons {
+    align-items: start;
+}
+
+.my-navbar {
+    padding-top: 20px;
+}
